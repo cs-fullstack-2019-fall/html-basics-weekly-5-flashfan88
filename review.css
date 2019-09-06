@@ -1,0 +1,35 @@
+#search{
+    display: block;
+    border-radius: 9px;
+    width: 300px;
+}
+
+#mail{
+    float: right;
+}
+
+#pics{
+    float: right;
+}
+
+button{
+    display: inline-block;
+}
+section{
+    float: top;
+}
+.image{
+    float: right;
+}
+
+#google{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#search{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
